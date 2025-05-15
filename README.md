@@ -1,3 +1,9 @@
+```
+K S Ashwin Kumar
+212224040034
+```
+
+
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
@@ -1087,7 +1093,13 @@ else
 fi
 ```
 ## OUTPUT 
-
-
+```
+Enter the number
+ 121
+ Number is palindrome
+ Enter the number
+ 69
+ Number is NOT palindrome
+```
 # RESULT:
 The Commands are executed successfully.
