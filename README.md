@@ -1092,7 +1092,14 @@ else
 fi
 ```
 ## OUTPUT 
-
+```
+Enter the number
+ 121
+ Number is palindrome
+ Enter the number
+ 69
+ Number is NOT palindrome
+```
 
 # RESULT:
 The Commands are executed successfully.
